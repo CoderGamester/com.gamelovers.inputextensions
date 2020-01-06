@@ -7,6 +7,6 @@
   "dependencies": {
     "com.unity.inputsystem": "1.0.0"
   },
-  "type": "module",
+  "type": "library",
   "hideInEditor": false
 }
