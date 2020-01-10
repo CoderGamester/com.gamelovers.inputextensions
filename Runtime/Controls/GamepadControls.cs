@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Packages/com.gamelovers.frameworks/Runtime/Input/Controls/GamepadControls.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Packages/com.gamelovers.inputextension/Runtime/Controls/GamepadControls.inputactions'
 
 using System;
 using System.Collections;

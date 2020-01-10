@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Packages/com.gamelovers.frameworks/Runtime/Input/Controls/PointerControls.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Packages/com.gamelovers.inputextension/Runtime/Controls/PointerControls.inputactions'
 
 using System;
 using System.Collections;
