@@ -10,7 +10,7 @@ namespace Input.Controls
 {
     public class @PointerControls : IInputActionCollection, IDisposable
     {
-        private InputActionAsset asset;
+        public InputActionAsset asset { get; }
         public @PointerControls()
         {
             asset = InputActionAsset.FromJson(@"{
